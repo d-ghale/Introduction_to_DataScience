@@ -1,14 +1,16 @@
-Data analysis project 3:
+# Data analysis project 3: 
+## *Applying machine learning methods to movie ratings data*
 
-Applying machine learning methods to movie ratings data
-Mission command preamble: As in general, we won’t tell you how to do something. That is up to you and
+** Mission command preamble:** As in general, we won’t tell you how to do something. That is up to you and
 your creative problem solving skills. However, we will tell you what we would like you to do. One exception:
 We do expect you to do this work yourself, so it reflects your intellectual contribution.
-Purpose: In this project, you will demonstrate essential machine learning skills. We revisit the same dataset
+
+**Purpose:** In this project, you will demonstrate essential machine learning skills. We revisit the same dataset
 you already used in project 1 and project 2. This will highlight what machine learning methods can and cannot
 do for you, compared to Hypothesis testing and Prediction methods. Please write a report (1-3 pages, as
 needed) that answers all the questions below. Use figures as needed to make your case.
-Dataset description: This dataset features ratings data of 400 movies from 1097 research participants.
+
+**Dataset description:** This dataset features ratings data of 400 movies from 1097 research participants.
 1st row: Headers (Movie titles/questions) – note that the indexing in this list is from 1
 Row 2-1098: Responses from individual participants
 Columns 1-400: These columns contain the ratings for the 400 movies (0 to 4, and missing)
@@ -20,7 +22,9 @@ Column 476: Only child (1 = yes, 0 = no, -1 = no response)
 Column 477: Movies are best enjoyed alone (1 = yes, 0 = no, -1 = no response)
 Note that we did most of the data munging for you already (e.g. Python interprets commas in a csv file as
 separators, so we removed all commas from movie titles), but you still need to handle missing data.
-What we would like you to do: (each question is worth 20% of the grade score):
+
+**What we would like you to do: (each question is worth 20% of the grade score):**
+
 1) Apply dimension reduction methods – specifically a PCA – to the data in columns 421-474. As laid out
 above, these columns contain self-report answers to personality and how these individuals
 experience movies, respectively. It is us to you whether you do one PCA each for personality and
