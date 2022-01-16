@@ -53,6 +53,7 @@ What are the errors on: (i) the training part; (ii) the testing part?
 
 2.2. Model df_pers = function(df_rate) by using the ridge regression with hyperparamter values alpha from [0.0, 1e-8, 1e-5, 0.1, 1, 10].
 For every of the previous values for alpha, what are the errors on: (i) the training part; (ii) the testing part? What is a best choice for alpha?
+
 2.3. Model df_pers = function(df_rate) by using the lasso regression with hyperparamter values alpha from [1e-3, 1e-2, 1e-1, 1].
 For every of the previous values for alpha, what are the errors on: (i) the training part; (ii) the testing part? What is a best choice for alpha?
 
