@@ -1,7 +1,7 @@
 # Data analysis project 3: 
-## *Applying machine learning methods to movie ratings data*
+*Applying machine learning methods to movie ratings data*
 
-** Mission command preamble:** As in general, we won’t tell you how to do something. That is up to you and
+**Mission command preamble:** As in general, we won’t tell you how to do something. That is up to you and
 your creative problem solving skills. However, we will tell you what we would like you to do. One exception:
 We do expect you to do this work yourself, so it reflects your intellectual contribution.
 
